@@ -1,0 +1,31 @@
+h1, h2 {
+  color: black;
+}
+
+p {
+  color: gray;
+}
+
+ul {
+  border: 5px solid red;
+}
+
+ol {
+  border: 5px solid blue;
+}
+
+ol, ul {
+  padding: 15px 35px;
+  border-radius: 50px;
+}
+
+h1 {
+  color: blue;
+}
+
+strong {
+  color: black;
+}
+em {
+  color: gray;
+}
